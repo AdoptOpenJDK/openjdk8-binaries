@@ -266,7 +266,7 @@
       "content_type": "application/gzip",
       "state": "uploaded",
       "size": 90242551,
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2018-10-26T19:38:05Z",
       "updated_at": "2018-10-26T19:38:10Z",
       "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u192-b13-0.11.0/OpenJDK8U-jdk_x64_linux_openj9_8u192b13-0.11.0.tar.gz"
