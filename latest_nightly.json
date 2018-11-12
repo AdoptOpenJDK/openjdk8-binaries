@@ -368,7 +368,7 @@
       "content_type": "text/plain",
       "state": "uploaded",
       "size": 124,
-      "download_count": 33,
+      "download_count": 34,
       "created_at": "2018-11-09T15:33:31Z",
       "updated_at": "2018-11-09T15:33:31Z",
       "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2018-11-09-15-32/OpenJDK8U-jdk_s390x_linux_hotspot_2018-11-09-15-32.tar.gz.sha256.txt"
