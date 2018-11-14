@@ -63,7 +63,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 75382012,
-        "download_count": 118,
+        "download_count": 122,
         "created_at": "2018-11-08T15:09:37Z",
         "updated_at": "2018-11-08T15:09:42Z",
         "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u191-b12/OpenJDK8U-jdk_aarch64_linux_hotspot_8u191b12.tar.gz"
@@ -97,7 +97,7 @@
         "content_type": "text/plain",
         "state": "uploaded",
         "size": 118,
-        "download_count": 78,
+        "download_count": 109,
         "created_at": "2018-11-08T15:09:42Z",
         "updated_at": "2018-11-08T15:09:42Z",
         "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u191-b12/OpenJDK8U-jdk_aarch64_linux_hotspot_8u191b12.tar.gz.sha256.txt"
@@ -131,7 +131,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 39527000,
-        "download_count": 13,
+        "download_count": 14,
         "created_at": "2018-11-08T15:09:43Z",
         "updated_at": "2018-11-08T15:09:45Z",
         "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u191-b12/OpenJDK8U-jre_aarch64_linux_hotspot_8u191b12.tar.gz"
@@ -165,7 +165,7 @@
         "content_type": "text/plain",
         "state": "uploaded",
         "size": 118,
-        "download_count": 1,
+        "download_count": 22,
         "created_at": "2018-11-08T15:09:46Z",
         "updated_at": "2018-11-08T15:09:46Z",
         "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u191-b12/OpenJDK8U-jre_aarch64_linux_hotspot_8u191b12.tar.gz.sha256.txt"
@@ -179,12 +179,12 @@
     "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-binaries/releases/13860510",
     "assets_url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-binaries/releases/13860510/assets",
     "upload_url": "https://uploads.github.com/repos/AdoptOpenJDK/openjdk8-binaries/releases/13860510/assets{?name,label}",
-    "html_url": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/tag/jdk8u192-b12_openj9-0.11.0",
+    "html_url": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/tag/jdk8u192-b12_openj9-0.11.0r0",
     "id": 13860510,
     "node_id": "MDc6UmVsZWFzZTEzODYwNTEw",
-    "tag_name": "jdk8u192-b12_openj9-0.11.0",
+    "tag_name": "jdk8u192-b12_openj9-0.11.0r0",
     "target_commitish": "master",
-    "name": "jdk8u192-b12_openj9-0.11.0",
+    "name": "jdk8u192-b12_openj9-0.11.0r0",
     "draft": false,
     "author": {
       "login": "adoptopenjdk-github-bot",
@@ -207,7 +207,7 @@
       "site_admin": false
     },
     "prerelease": false,
-    "created_at": "2018-11-06T18:46:44Z",
+    "created_at": "2018-11-14T14:46:55Z",
     "published_at": "2018-11-06T18:56:08Z",
     "assets": [
       {
@@ -242,7 +242,7 @@
         "download_count": 4,
         "created_at": "2018-11-07T16:36:48Z",
         "updated_at": "2018-11-07T16:36:51Z",
-        "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u192-b12_openj9-0.11.0/OpenJDK8U-jre_ppc64le_linux_openj9_8u192b12_openj9-0.11.0.tar.gz"
+        "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u192-b12_openj9-0.11.0r0/OpenJDK8U-jre_ppc64le_linux_openj9_8u192b12_openj9-0.11.0.tar.gz"
       },
       {
         "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-binaries/releases/assets/9596040",
@@ -273,10 +273,10 @@
         "content_type": "text/plain",
         "state": "uploaded",
         "size": 159,
-        "download_count": 0,
+        "download_count": 4,
         "created_at": "2018-11-07T16:36:52Z",
         "updated_at": "2018-11-07T16:36:52Z",
-        "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u192-b12_openj9-0.11.0/OpenJDK8U-jre_ppc64le_linux_openj9_8u192b12_openj9-0.11.0.tar.gz.sha256.txt"
+        "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u192-b12_openj9-0.11.0r0/OpenJDK8U-jre_ppc64le_linux_openj9_8u192b12_openj9-0.11.0.tar.gz.sha256.txt"
       },
       {
         "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-binaries/releases/assets/9596041",
@@ -307,10 +307,10 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 49434837,
-        "download_count": 35,
+        "download_count": 49,
         "created_at": "2018-11-07T16:36:54Z",
         "updated_at": "2018-11-07T16:36:56Z",
-        "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u192-b12_openj9-0.11.0/OpenJDK8U-jre_x64_linux_openj9_linuxXL_8u192b12_openj9-0.11.0.tar.gz"
+        "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u192-b12_openj9-0.11.0r0/OpenJDK8U-jre_x64_linux_openj9_linuxXL_8u192b12_openj9-0.11.0.tar.gz"
       },
       {
         "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-binaries/releases/assets/9601733",
@@ -344,7 +344,7 @@
         "download_count": 2,
         "created_at": "2018-11-07T23:51:30Z",
         "updated_at": "2018-11-07T23:51:35Z",
-        "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u192-b12_openj9-0.11.0/OpenJDK8U-jdk_ppc64_aix_openj9_8u192b12_openj9-0.11.0.tar.gz"
+        "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u192-b12_openj9-0.11.0r0/OpenJDK8U-jdk_ppc64_aix_openj9_8u192b12_openj9-0.11.0.tar.gz"
       },
       {
         "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-binaries/releases/assets/9601735",
@@ -375,10 +375,10 @@
         "content_type": "text/plain",
         "state": "uploaded",
         "size": 151,
-        "download_count": 0,
+        "download_count": 4,
         "created_at": "2018-11-07T23:51:36Z",
         "updated_at": "2018-11-07T23:51:36Z",
-        "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u192-b12_openj9-0.11.0/OpenJDK8U-jdk_ppc64_aix_openj9_8u192b12_openj9-0.11.0.tar.gz.sha256.txt"
+        "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u192-b12_openj9-0.11.0r0/OpenJDK8U-jdk_ppc64_aix_openj9_8u192b12_openj9-0.11.0.tar.gz.sha256.txt"
       },
       {
         "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-binaries/releases/assets/9601736",
@@ -409,10 +409,10 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 89531699,
-        "download_count": 20,
+        "download_count": 22,
         "created_at": "2018-11-07T23:51:37Z",
         "updated_at": "2018-11-07T23:51:48Z",
-        "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u192-b12_openj9-0.11.0/OpenJDK8U-jdk_ppc64le_linux_openj9_8u192b12_openj9-0.11.0.tar.gz"
+        "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u192-b12_openj9-0.11.0r0/OpenJDK8U-jdk_ppc64le_linux_openj9_8u192b12_openj9-0.11.0.tar.gz"
       },
       {
         "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-binaries/releases/assets/9601737",
@@ -443,10 +443,10 @@
         "content_type": "text/plain",
         "state": "uploaded",
         "size": 159,
-        "download_count": 66,
+        "download_count": 79,
         "created_at": "2018-11-07T23:51:49Z",
         "updated_at": "2018-11-07T23:51:49Z",
-        "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u192-b12_openj9-0.11.0/OpenJDK8U-jdk_ppc64le_linux_openj9_8u192b12_openj9-0.11.0.tar.gz.sha256.txt"
+        "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u192-b12_openj9-0.11.0r0/OpenJDK8U-jdk_ppc64le_linux_openj9_8u192b12_openj9-0.11.0.tar.gz.sha256.txt"
       },
       {
         "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-binaries/releases/assets/9601738",
@@ -477,10 +477,10 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 90368806,
-        "download_count": 27,
+        "download_count": 43,
         "created_at": "2018-11-07T23:51:49Z",
         "updated_at": "2018-11-07T23:51:56Z",
-        "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u192-b12_openj9-0.11.0/OpenJDK8U-jdk_s390x_linux_openj9_8u192b12_openj9-0.11.0.tar.gz"
+        "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u192-b12_openj9-0.11.0r0/OpenJDK8U-jdk_s390x_linux_openj9_8u192b12_openj9-0.11.0.tar.gz"
       },
       {
         "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-binaries/releases/assets/9601739",
@@ -511,10 +511,10 @@
         "content_type": "text/plain",
         "state": "uploaded",
         "size": 155,
-        "download_count": 66,
+        "download_count": 79,
         "created_at": "2018-11-07T23:51:56Z",
         "updated_at": "2018-11-07T23:51:56Z",
-        "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u192-b12_openj9-0.11.0/OpenJDK8U-jdk_s390x_linux_openj9_8u192b12_openj9-0.11.0.tar.gz.sha256.txt"
+        "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u192-b12_openj9-0.11.0r0/OpenJDK8U-jdk_s390x_linux_openj9_8u192b12_openj9-0.11.0.tar.gz.sha256.txt"
       },
       {
         "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-binaries/releases/assets/9601740",
@@ -545,10 +545,10 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 90243811,
-        "download_count": 175,
+        "download_count": 186,
         "created_at": "2018-11-07T23:51:57Z",
         "updated_at": "2018-11-07T23:52:02Z",
-        "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u192-b12_openj9-0.11.0/OpenJDK8U-jdk_x64_linux_openj9_8u192b12_openj9-0.11.0.tar.gz"
+        "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u192-b12_openj9-0.11.0r0/OpenJDK8U-jdk_x64_linux_openj9_8u192b12_openj9-0.11.0.tar.gz"
       },
       {
         "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-binaries/releases/assets/9601741",
@@ -579,10 +579,10 @@
         "content_type": "text/plain",
         "state": "uploaded",
         "size": 151,
-        "download_count": 95,
+        "download_count": 107,
         "created_at": "2018-11-07T23:52:03Z",
         "updated_at": "2018-11-07T23:52:03Z",
-        "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u192-b12_openj9-0.11.0/OpenJDK8U-jdk_x64_linux_openj9_8u192b12_openj9-0.11.0.tar.gz.sha256.txt"
+        "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u192-b12_openj9-0.11.0r0/OpenJDK8U-jdk_x64_linux_openj9_8u192b12_openj9-0.11.0.tar.gz.sha256.txt"
       },
       {
         "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-binaries/releases/assets/9601742",
@@ -613,10 +613,10 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 90116255,
-        "download_count": 2010,
+        "download_count": 2069,
         "created_at": "2018-11-07T23:52:04Z",
         "updated_at": "2018-11-07T23:52:09Z",
-        "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u192-b12_openj9-0.11.0/OpenJDK8U-jdk_x64_linux_openj9_linuxXL_8u192b12_openj9-0.11.0.tar.gz"
+        "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u192-b12_openj9-0.11.0r0/OpenJDK8U-jdk_x64_linux_openj9_linuxXL_8u192b12_openj9-0.11.0.tar.gz"
       },
       {
         "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-binaries/releases/assets/9601743",
@@ -647,10 +647,10 @@
         "content_type": "text/plain",
         "state": "uploaded",
         "size": 159,
-        "download_count": 0,
+        "download_count": 4,
         "created_at": "2018-11-07T23:52:10Z",
         "updated_at": "2018-11-07T23:52:10Z",
-        "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u192-b12_openj9-0.11.0/OpenJDK8U-jdk_x64_linux_openj9_linuxXL_8u192b12_openj9-0.11.0.tar.gz.sha256.txt"
+        "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u192-b12_openj9-0.11.0r0/OpenJDK8U-jdk_x64_linux_openj9_linuxXL_8u192b12_openj9-0.11.0.tar.gz.sha256.txt"
       },
       {
         "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-binaries/releases/assets/9601744",
@@ -681,14 +681,14 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 49837259,
-        "download_count": 2,
+        "download_count": 3,
         "created_at": "2018-11-07T23:52:12Z",
         "updated_at": "2018-11-07T23:52:14Z",
-        "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u192-b12_openj9-0.11.0/OpenJDK8U-jre_ppc64_aix_openj9_8u192b12_openj9-0.11.0.tar.gz"
+        "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u192-b12_openj9-0.11.0r0/OpenJDK8U-jre_ppc64_aix_openj9_8u192b12_openj9-0.11.0.tar.gz"
       }
     ],
-    "tarball_url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-binaries/tarball/jdk8u192-b12_openj9-0.11.0",
-    "zipball_url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-binaries/zipball/jdk8u192-b12_openj9-0.11.0",
+    "tarball_url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-binaries/tarball/jdk8u192-b12_openj9-0.11.0r0",
+    "zipball_url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-binaries/zipball/jdk8u192-b12_openj9-0.11.0r0",
     "body": "Official Release of jdk8u192-b12_openj9-0.11.0"
   }
 ]
