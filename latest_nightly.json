@@ -538,7 +538,7 @@
       "content_type": "application/gzip",
       "state": "uploaded",
       "size": 104324181,
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2018-11-19T10:21:37Z",
       "updated_at": "2018-11-19T10:21:42Z",
       "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2018-11-19-10-20/OpenJDK8U-jdk_x64_linux_hotspot_2018-11-19-10-20.tar.gz"
