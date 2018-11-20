@@ -810,7 +810,7 @@
       "content_type": "application/zip",
       "state": "uploaded",
       "size": 104083919,
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2018-11-20T11:44:33Z",
       "updated_at": "2018-11-20T11:44:38Z",
       "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2018-11-20-11-43/OpenJDK8U-jdk_x64_windows_hotspot_2018-11-20-11-43.zip"
@@ -946,7 +946,7 @@
       "content_type": "application/zip",
       "state": "uploaded",
       "size": 102938185,
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2018-11-20T11:44:45Z",
       "updated_at": "2018-11-20T11:44:50Z",
       "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2018-11-20-11-43/OpenJDK8U-jdk_x86-32_windows_hotspot_2018-11-20-11-43.zip"
@@ -1762,7 +1762,7 @@
       "content_type": "application/zip",
       "state": "uploaded",
       "size": 37795595,
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2018-11-20T11:45:33Z",
       "updated_at": "2018-11-20T11:45:36Z",
       "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2018-11-20-11-43/OpenJDK8U-jre_x64_windows_hotspot_2018-11-20-11-43.zip"
@@ -1898,7 +1898,7 @@
       "content_type": "application/zip",
       "state": "uploaded",
       "size": 36744612,
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2018-11-20T11:45:40Z",
       "updated_at": "2018-11-20T11:45:43Z",
       "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2018-11-20-11-43/OpenJDK8U-jre_x86-32_windows_hotspot_2018-11-20-11-43.zip"
