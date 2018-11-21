@@ -470,7 +470,7 @@
       "content_type": "application/gzip",
       "state": "uploaded",
       "size": 90134336,
-      "download_count": 0,
+      "download_count": 2,
       "created_at": "2018-11-21T13:12:26Z",
       "updated_at": "2018-11-21T13:12:31Z",
       "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2018-11-21-13-11/OpenJDK8U-jdk_s390x_linux_openj9_2018-11-21-13-11.tar.gz"
@@ -742,7 +742,7 @@
       "content_type": "application/gzip",
       "state": "uploaded",
       "size": 81038787,
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2018-11-21T13:13:09Z",
       "updated_at": "2018-11-21T13:13:14Z",
       "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2018-11-21-13-11/OpenJDK8U-jdk_x64_mac_openj9_2018-11-21-13-11.tar.gz"
