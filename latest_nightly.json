@@ -96,7 +96,7 @@
       "content_type": "text/plain",
       "state": "uploaded",
       "size": 147,
-      "download_count": 3,
+      "download_count": 5,
       "created_at": "2018-11-23T16:45:52Z",
       "updated_at": "2018-11-23T16:45:52Z",
       "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u192-b99/OpenJDK8U-jdk_s390x_linux_openj9_jdk8u19b-b99-SXADONOTUSE-0.11.0_8u192b99.tar.gz.sha256.txt"
