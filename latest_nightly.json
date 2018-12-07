@@ -1626,7 +1626,7 @@
       "content_type": "application/gzip",
       "state": "uploaded",
       "size": 38441159,
-      "download_count": 2,
+      "download_count": 4,
       "created_at": "2018-12-06T17:30:10Z",
       "updated_at": "2018-12-06T17:30:13Z",
       "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2018-12-06-17-27/OpenJDK8U-jre_x64_mac_hotspot_2018-12-06-17-27.tar.gz"
