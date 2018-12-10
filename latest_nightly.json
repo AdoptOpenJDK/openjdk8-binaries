@@ -946,7 +946,7 @@
       "content_type": "application/zip",
       "state": "uploaded",
       "size": 87603730,
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2018-12-09T06:37:18Z",
       "updated_at": "2018-12-09T06:37:22Z",
       "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2018-12-09-06-35/OpenJDK8U-jdk_x64_windows_openj9_2018-12-09-06-35.zip"
