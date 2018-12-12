@@ -1796,7 +1796,7 @@
       "content_type": "application/gzip",
       "state": "uploaded",
       "size": 45224218,
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2018-12-11T17:46:38Z",
       "updated_at": "2018-12-11T17:46:42Z",
       "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2018-12-11-17-43/OpenJDK8U-jre_x64_mac_openj9_2018-12-11-17-43.tar.gz"
