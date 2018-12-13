@@ -96,7 +96,7 @@
       "content_type": "text/plain",
       "state": "uploaded",
       "size": 126,
-      "download_count": 23,
+      "download_count": 26,
       "created_at": "2018-12-12T17:25:58Z",
       "updated_at": "2018-12-12T17:25:58Z",
       "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2018-12-12-17-25/OpenJDK8U-jdk_aarch64_linux_hotspot_2018-12-12-17-25.tar.gz.sha256.txt"
@@ -266,7 +266,7 @@
       "content_type": "application/gzip",
       "state": "uploaded",
       "size": 101579642,
-      "download_count": 6,
+      "download_count": 8,
       "created_at": "2018-12-12T17:26:11Z",
       "updated_at": "2018-12-12T17:26:18Z",
       "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2018-12-12-17-25/OpenJDK8U-jdk_ppc64le_linux_hotspot_2018-12-12-17-25.tar.gz"
@@ -300,7 +300,7 @@
       "content_type": "text/plain",
       "state": "uploaded",
       "size": 126,
-      "download_count": 23,
+      "download_count": 26,
       "created_at": "2018-12-12T17:26:19Z",
       "updated_at": "2018-12-12T17:26:19Z",
       "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2018-12-12-17-25/OpenJDK8U-jdk_ppc64le_linux_hotspot_2018-12-12-17-25.tar.gz.sha256.txt"
@@ -402,7 +402,7 @@
       "content_type": "application/gzip",
       "state": "uploaded",
       "size": 100167963,
-      "download_count": 6,
+      "download_count": 8,
       "created_at": "2018-12-12T17:26:25Z",
       "updated_at": "2018-12-12T17:26:30Z",
       "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2018-12-12-17-25/OpenJDK8U-jdk_s390x_linux_hotspot_2018-12-12-17-25.tar.gz"
@@ -436,7 +436,7 @@
       "content_type": "text/plain",
       "state": "uploaded",
       "size": 124,
-      "download_count": 23,
+      "download_count": 26,
       "created_at": "2018-12-12T17:26:31Z",
       "updated_at": "2018-12-12T17:26:31Z",
       "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2018-12-12-17-25/OpenJDK8U-jdk_s390x_linux_hotspot_2018-12-12-17-25.tar.gz.sha256.txt"
