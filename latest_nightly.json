@@ -1762,7 +1762,7 @@
       "content_type": "application/zip",
       "state": "uploaded",
       "size": 37795392,
-      "download_count": 2,
+      "download_count": 4,
       "created_at": "2018-12-14T14:58:32Z",
       "updated_at": "2018-12-14T14:58:34Z",
       "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2018-12-14-14-56/OpenJDK8U-jre_x64_windows_hotspot_2018-12-14-14-56.zip"
