@@ -96,7 +96,7 @@
       "content_type": "text/plain",
       "state": "uploaded",
       "size": 126,
-      "download_count": 22,
+      "download_count": 23,
       "created_at": "2018-12-18T14:44:05Z",
       "updated_at": "2018-12-18T14:44:05Z",
       "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2018-12-18-14-43/OpenJDK8U-jdk_aarch64_linux_hotspot_2018-12-18-14-43.tar.gz.sha256.txt"
@@ -300,7 +300,7 @@
       "content_type": "text/plain",
       "state": "uploaded",
       "size": 126,
-      "download_count": 22,
+      "download_count": 23,
       "created_at": "2018-12-18T14:44:41Z",
       "updated_at": "2018-12-18T14:44:41Z",
       "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2018-12-18-14-43/OpenJDK8U-jdk_ppc64le_linux_hotspot_2018-12-18-14-43.tar.gz.sha256.txt"
@@ -606,7 +606,7 @@
       "content_type": "application/gzip",
       "state": "uploaded",
       "size": 89386040,
-      "download_count": 10,
+      "download_count": 11,
       "created_at": "2018-12-18T14:45:07Z",
       "updated_at": "2018-12-18T14:45:12Z",
       "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2018-12-18-14-43/OpenJDK8U-jdk_x64_linux_openj9_2018-12-18-14-43.tar.gz"
