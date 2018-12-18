@@ -198,7 +198,7 @@
       "content_type": "application/gzip",
       "state": "uploaded",
       "size": 91797060,
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2018-12-17T14:47:14Z",
       "updated_at": "2018-12-17T14:47:19Z",
       "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2018-12-17-14-46/OpenJDK8U-jdk_ppc64_aix_openj9_2018-12-17-14-46.tar.gz"
