@@ -504,7 +504,7 @@
       "content_type": "text/plain",
       "state": "uploaded",
       "size": 122,
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2018-12-20T23:44:44Z",
       "updated_at": "2018-12-20T23:44:44Z",
       "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2018-12-20-23-43/OpenJDK8U-jdk_x64_linux_hotspot_2018-12-20-23-43.tar.gz.sha256.txt"
@@ -674,7 +674,7 @@
       "content_type": "application/gzip",
       "state": "uploaded",
       "size": 101590222,
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2018-12-20T23:44:58Z",
       "updated_at": "2018-12-20T23:45:04Z",
       "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2018-12-20-23-43/OpenJDK8U-jdk_x64_mac_hotspot_2018-12-20-23-43.tar.gz"
