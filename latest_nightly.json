@@ -436,7 +436,7 @@
       "content_type": "text/plain",
       "state": "uploaded",
       "size": 123,
-      "download_count": 46,
+      "download_count": 47,
       "created_at": "2018-12-24T11:33:48Z",
       "updated_at": "2018-12-24T11:33:48Z",
       "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2018-12-24-11-33/OpenJDK8U-jdk_s390x_linux_openj9_2018-12-24-11-33.tar.gz.sha256.txt"
