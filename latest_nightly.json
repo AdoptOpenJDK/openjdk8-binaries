@@ -538,7 +538,7 @@
       "content_type": "application/gzip",
       "state": "uploaded",
       "size": 116679824,
-      "download_count": 2,
+      "download_count": 5,
       "created_at": "2019-01-01T00:23:10Z",
       "updated_at": "2019-01-01T00:23:16Z",
       "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-01-01-00-22/OpenJDK8U-jdk_x64_linux_openj9_2019-01-01-00-22.tar.gz"
