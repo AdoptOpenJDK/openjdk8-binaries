@@ -1,13 +1,13 @@
 {
-  "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-binaries/releases/14755048",
-  "assets_url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-binaries/releases/14755048/assets",
-  "upload_url": "https://uploads.github.com/repos/AdoptOpenJDK/openjdk8-binaries/releases/14755048/assets{?name,label}",
-  "html_url": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/tag/jdk8u-2019-01-01-00-22",
-  "id": 14755048,
-  "node_id": "MDc6UmVsZWFzZTE0NzU1MDQ4",
-  "tag_name": "jdk8u-2019-01-01-00-22",
+  "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-binaries/releases/14757707",
+  "assets_url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-binaries/releases/14757707/assets",
+  "upload_url": "https://uploads.github.com/repos/AdoptOpenJDK/openjdk8-binaries/releases/14757707/assets{?name,label}",
+  "html_url": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/tag/jdk8u-2019-01-01-15-43",
+  "id": 14757707,
+  "node_id": "MDc6UmVsZWFzZTE0NzU3NzA3",
+  "tag_name": "jdk8u-2019-01-01-15-43",
   "target_commitish": "master",
-  "name": "jdk8u-2019-01-01-00-22",
+  "name": "jdk8u-2019-01-01-15-43",
   "draft": false,
   "author": {
     "login": "adoptopenjdk-github-bot",
@@ -30,14 +30,14 @@
     "site_admin": false
   },
   "prerelease": true,
-  "created_at": "2019-01-01T00:16:37Z",
-  "published_at": "2019-01-01T00:22:26Z",
+  "created_at": "2019-01-01T15:36:43Z",
+  "published_at": "2019-01-01T15:44:03Z",
   "assets": [
     {
-      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-binaries/releases/assets/10368760",
-      "id": 10368760,
-      "node_id": "MDEyOlJlbGVhc2VBc3NldDEwMzY4NzYw",
-      "name": "OpenJDK8U-jdk_aarch64_linux_hotspot_2019-01-01-00-22.tar.gz",
+      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-binaries/releases/assets/10372878",
+      "id": 10372878,
+      "node_id": "MDEyOlJlbGVhc2VBc3NldDEwMzcyODc4",
+      "name": "OpenJDK8U-jdk_aarch64_linux_hotspot_2019-01-01-15-43.tar.gz",
       "label": "",
       "uploader": {
         "login": "adoptopenjdk-github-bot",
@@ -61,17 +61,17 @@
       },
       "content_type": "application/gzip",
       "state": "uploaded",
-      "size": 76594172,
+      "size": 76589578,
       "download_count": 0,
-      "created_at": "2019-01-01T00:22:26Z",
-      "updated_at": "2019-01-01T00:22:30Z",
-      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-01-01-00-22/OpenJDK8U-jdk_aarch64_linux_hotspot_2019-01-01-00-22.tar.gz"
+      "created_at": "2019-01-01T15:44:04Z",
+      "updated_at": "2019-01-01T15:44:08Z",
+      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-01-01-15-43/OpenJDK8U-jdk_aarch64_linux_hotspot_2019-01-01-15-43.tar.gz"
     },
     {
-      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-binaries/releases/assets/10368761",
-      "id": 10368761,
-      "node_id": "MDEyOlJlbGVhc2VBc3NldDEwMzY4NzYx",
-      "name": "OpenJDK8U-jdk_aarch64_linux_hotspot_2019-01-01-00-22.tar.gz.sha256.txt",
+      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-binaries/releases/assets/10372881",
+      "id": 10372881,
+      "node_id": "MDEyOlJlbGVhc2VBc3NldDEwMzcyODgx",
+      "name": "OpenJDK8U-jdk_aarch64_linux_hotspot_2019-01-01-15-43.tar.gz.sha256.txt",
       "label": "",
       "uploader": {
         "login": "adoptopenjdk-github-bot",
@@ -97,15 +97,15 @@
       "state": "uploaded",
       "size": 126,
       "download_count": 0,
-      "created_at": "2019-01-01T00:22:31Z",
-      "updated_at": "2019-01-01T00:22:31Z",
-      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-01-01-00-22/OpenJDK8U-jdk_aarch64_linux_hotspot_2019-01-01-00-22.tar.gz.sha256.txt"
+      "created_at": "2019-01-01T15:44:08Z",
+      "updated_at": "2019-01-01T15:44:08Z",
+      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-01-01-15-43/OpenJDK8U-jdk_aarch64_linux_hotspot_2019-01-01-15-43.tar.gz.sha256.txt"
     },
     {
-      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-binaries/releases/assets/10368762",
-      "id": 10368762,
-      "node_id": "MDEyOlJlbGVhc2VBc3NldDEwMzY4NzYy",
-      "name": "OpenJDK8U-jdk_ppc64_aix_hotspot_2019-01-01-00-22.tar.gz",
+      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-binaries/releases/assets/10372882",
+      "id": 10372882,
+      "node_id": "MDEyOlJlbGVhc2VBc3NldDEwMzcyODgy",
+      "name": "OpenJDK8U-jdk_ppc64_aix_hotspot_2019-01-01-15-43.tar.gz",
       "label": "",
       "uploader": {
         "login": "adoptopenjdk-github-bot",
@@ -129,17 +129,17 @@
       },
       "content_type": "application/gzip",
       "state": "uploaded",
-      "size": 105439286,
+      "size": 105438153,
       "download_count": 0,
-      "created_at": "2019-01-01T00:22:31Z",
-      "updated_at": "2019-01-01T00:22:37Z",
-      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-01-01-00-22/OpenJDK8U-jdk_ppc64_aix_hotspot_2019-01-01-00-22.tar.gz"
+      "created_at": "2019-01-01T15:44:09Z",
+      "updated_at": "2019-01-01T15:44:14Z",
+      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-01-01-15-43/OpenJDK8U-jdk_ppc64_aix_hotspot_2019-01-01-15-43.tar.gz"
     },
     {
-      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-binaries/releases/assets/10368763",
-      "id": 10368763,
-      "node_id": "MDEyOlJlbGVhc2VBc3NldDEwMzY4NzYz",
-      "name": "OpenJDK8U-jdk_ppc64_aix_hotspot_2019-01-01-00-22.tar.gz.sha256.txt",
+      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-binaries/releases/assets/10372883",
+      "id": 10372883,
+      "node_id": "MDEyOlJlbGVhc2VBc3NldDEwMzcyODgz",
+      "name": "OpenJDK8U-jdk_ppc64_aix_hotspot_2019-01-01-15-43.tar.gz.sha256.txt",
       "label": "",
       "uploader": {
         "login": "adoptopenjdk-github-bot",
@@ -165,15 +165,15 @@
       "state": "uploaded",
       "size": 122,
       "download_count": 0,
-      "created_at": "2019-01-01T00:22:37Z",
-      "updated_at": "2019-01-01T00:22:37Z",
-      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-01-01-00-22/OpenJDK8U-jdk_ppc64_aix_hotspot_2019-01-01-00-22.tar.gz.sha256.txt"
+      "created_at": "2019-01-01T15:44:14Z",
+      "updated_at": "2019-01-01T15:44:14Z",
+      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-01-01-15-43/OpenJDK8U-jdk_ppc64_aix_hotspot_2019-01-01-15-43.tar.gz.sha256.txt"
     },
     {
-      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-binaries/releases/assets/10368764",
-      "id": 10368764,
-      "node_id": "MDEyOlJlbGVhc2VBc3NldDEwMzY4NzY0",
-      "name": "OpenJDK8U-jdk_ppc64le_linux_hotspot_2019-01-01-00-22.tar.gz",
+      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-binaries/releases/assets/10372884",
+      "id": 10372884,
+      "node_id": "MDEyOlJlbGVhc2VBc3NldDEwMzcyODg0",
+      "name": "OpenJDK8U-jdk_ppc64le_linux_hotspot_2019-01-01-15-43.tar.gz",
       "label": "",
       "uploader": {
         "login": "adoptopenjdk-github-bot",
@@ -197,17 +197,17 @@
       },
       "content_type": "application/gzip",
       "state": "uploaded",
-      "size": 101574314,
+      "size": 101575492,
       "download_count": 0,
-      "created_at": "2019-01-01T00:22:38Z",
-      "updated_at": "2019-01-01T00:22:42Z",
-      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-01-01-00-22/OpenJDK8U-jdk_ppc64le_linux_hotspot_2019-01-01-00-22.tar.gz"
+      "created_at": "2019-01-01T15:44:15Z",
+      "updated_at": "2019-01-01T15:44:21Z",
+      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-01-01-15-43/OpenJDK8U-jdk_ppc64le_linux_hotspot_2019-01-01-15-43.tar.gz"
     },
     {
-      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-binaries/releases/assets/10368766",
-      "id": 10368766,
-      "node_id": "MDEyOlJlbGVhc2VBc3NldDEwMzY4NzY2",
-      "name": "OpenJDK8U-jdk_ppc64le_linux_hotspot_2019-01-01-00-22.tar.gz.sha256.txt",
+      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-binaries/releases/assets/10372885",
+      "id": 10372885,
+      "node_id": "MDEyOlJlbGVhc2VBc3NldDEwMzcyODg1",
+      "name": "OpenJDK8U-jdk_ppc64le_linux_hotspot_2019-01-01-15-43.tar.gz.sha256.txt",
       "label": "",
       "uploader": {
         "login": "adoptopenjdk-github-bot",
@@ -233,15 +233,15 @@
       "state": "uploaded",
       "size": 126,
       "download_count": 0,
-      "created_at": "2019-01-01T00:22:43Z",
-      "updated_at": "2019-01-01T00:22:43Z",
-      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-01-01-00-22/OpenJDK8U-jdk_ppc64le_linux_hotspot_2019-01-01-00-22.tar.gz.sha256.txt"
+      "created_at": "2019-01-01T15:44:21Z",
+      "updated_at": "2019-01-01T15:44:21Z",
+      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-01-01-15-43/OpenJDK8U-jdk_ppc64le_linux_hotspot_2019-01-01-15-43.tar.gz.sha256.txt"
     },
     {
-      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-binaries/releases/assets/10368767",
-      "id": 10368767,
-      "node_id": "MDEyOlJlbGVhc2VBc3NldDEwMzY4NzY3",
-      "name": "OpenJDK8U-jdk_ppc64le_linux_openj9_2019-01-01-00-22.tar.gz",
+      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-binaries/releases/assets/10372886",
+      "id": 10372886,
+      "node_id": "MDEyOlJlbGVhc2VBc3NldDEwMzcyODg2",
+      "name": "OpenJDK8U-jdk_ppc64le_linux_openj9_2019-01-01-15-43.tar.gz",
       "label": "",
       "uploader": {
         "login": "adoptopenjdk-github-bot",
@@ -265,17 +265,17 @@
       },
       "content_type": "application/gzip",
       "state": "uploaded",
-      "size": 117082101,
-      "download_count": 2,
-      "created_at": "2019-01-01T00:22:43Z",
-      "updated_at": "2019-01-01T00:22:49Z",
-      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-01-01-00-22/OpenJDK8U-jdk_ppc64le_linux_openj9_2019-01-01-00-22.tar.gz"
+      "size": 117079698,
+      "download_count": 0,
+      "created_at": "2019-01-01T15:44:22Z",
+      "updated_at": "2019-01-01T15:44:27Z",
+      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-01-01-15-43/OpenJDK8U-jdk_ppc64le_linux_openj9_2019-01-01-15-43.tar.gz"
     },
     {
-      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-binaries/releases/assets/10368768",
-      "id": 10368768,
-      "node_id": "MDEyOlJlbGVhc2VBc3NldDEwMzY4NzY4",
-      "name": "OpenJDK8U-jdk_ppc64le_linux_openj9_2019-01-01-00-22.tar.gz.sha256.txt",
+      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-binaries/releases/assets/10372893",
+      "id": 10372893,
+      "node_id": "MDEyOlJlbGVhc2VBc3NldDEwMzcyODkz",
+      "name": "OpenJDK8U-jdk_ppc64le_linux_openj9_2019-01-01-15-43.tar.gz.sha256.txt",
       "label": "",
       "uploader": {
         "login": "adoptopenjdk-github-bot",
@@ -301,15 +301,15 @@
       "state": "uploaded",
       "size": 125,
       "download_count": 0,
-      "created_at": "2019-01-01T00:22:49Z",
-      "updated_at": "2019-01-01T00:22:50Z",
-      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-01-01-00-22/OpenJDK8U-jdk_ppc64le_linux_openj9_2019-01-01-00-22.tar.gz.sha256.txt"
+      "created_at": "2019-01-01T15:44:27Z",
+      "updated_at": "2019-01-01T15:44:28Z",
+      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-01-01-15-43/OpenJDK8U-jdk_ppc64le_linux_openj9_2019-01-01-15-43.tar.gz.sha256.txt"
     },
     {
-      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-binaries/releases/assets/10368769",
-      "id": 10368769,
-      "node_id": "MDEyOlJlbGVhc2VBc3NldDEwMzY4NzY5",
-      "name": "OpenJDK8U-jdk_s390x_linux_hotspot_2019-01-01-00-22.tar.gz",
+      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-binaries/releases/assets/10372894",
+      "id": 10372894,
+      "node_id": "MDEyOlJlbGVhc2VBc3NldDEwMzcyODk0",
+      "name": "OpenJDK8U-jdk_s390x_linux_hotspot_2019-01-01-15-43.tar.gz",
       "label": "",
       "uploader": {
         "login": "adoptopenjdk-github-bot",
@@ -333,17 +333,17 @@
       },
       "content_type": "application/gzip",
       "state": "uploaded",
-      "size": 100168653,
+      "size": 100162436,
       "download_count": 0,
-      "created_at": "2019-01-01T00:22:50Z",
-      "updated_at": "2019-01-01T00:22:56Z",
-      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-01-01-00-22/OpenJDK8U-jdk_s390x_linux_hotspot_2019-01-01-00-22.tar.gz"
+      "created_at": "2019-01-01T15:44:28Z",
+      "updated_at": "2019-01-01T15:44:33Z",
+      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-01-01-15-43/OpenJDK8U-jdk_s390x_linux_hotspot_2019-01-01-15-43.tar.gz"
     },
     {
-      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-binaries/releases/assets/10368770",
-      "id": 10368770,
-      "node_id": "MDEyOlJlbGVhc2VBc3NldDEwMzY4Nzcw",
-      "name": "OpenJDK8U-jdk_s390x_linux_hotspot_2019-01-01-00-22.tar.gz.sha256.txt",
+      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-binaries/releases/assets/10372897",
+      "id": 10372897,
+      "node_id": "MDEyOlJlbGVhc2VBc3NldDEwMzcyODk3",
+      "name": "OpenJDK8U-jdk_s390x_linux_hotspot_2019-01-01-15-43.tar.gz.sha256.txt",
       "label": "",
       "uploader": {
         "login": "adoptopenjdk-github-bot",
@@ -369,15 +369,15 @@
       "state": "uploaded",
       "size": 124,
       "download_count": 0,
-      "created_at": "2019-01-01T00:22:56Z",
-      "updated_at": "2019-01-01T00:22:57Z",
-      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-01-01-00-22/OpenJDK8U-jdk_s390x_linux_hotspot_2019-01-01-00-22.tar.gz.sha256.txt"
+      "created_at": "2019-01-01T15:44:33Z",
+      "updated_at": "2019-01-01T15:44:33Z",
+      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-01-01-15-43/OpenJDK8U-jdk_s390x_linux_hotspot_2019-01-01-15-43.tar.gz.sha256.txt"
     },
     {
-      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-binaries/releases/assets/10368771",
-      "id": 10368771,
-      "node_id": "MDEyOlJlbGVhc2VBc3NldDEwMzY4Nzcx",
-      "name": "OpenJDK8U-jdk_s390x_linux_openj9_2019-01-01-00-22.tar.gz",
+      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-binaries/releases/assets/10372898",
+      "id": 10372898,
+      "node_id": "MDEyOlJlbGVhc2VBc3NldDEwMzcyODk4",
+      "name": "OpenJDK8U-jdk_s390x_linux_openj9_2019-01-01-15-43.tar.gz",
       "label": "",
       "uploader": {
         "login": "adoptopenjdk-github-bot",
@@ -401,17 +401,17 @@
       },
       "content_type": "application/gzip",
       "state": "uploaded",
-      "size": 116945728,
-      "download_count": 2,
-      "created_at": "2019-01-01T00:22:57Z",
-      "updated_at": "2019-01-01T00:23:03Z",
-      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-01-01-00-22/OpenJDK8U-jdk_s390x_linux_openj9_2019-01-01-00-22.tar.gz"
+      "size": 116939584,
+      "download_count": 0,
+      "created_at": "2019-01-01T15:44:34Z",
+      "updated_at": "2019-01-01T15:44:39Z",
+      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-01-01-15-43/OpenJDK8U-jdk_s390x_linux_openj9_2019-01-01-15-43.tar.gz"
     },
     {
-      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-binaries/releases/assets/10368772",
-      "id": 10368772,
-      "node_id": "MDEyOlJlbGVhc2VBc3NldDEwMzY4Nzcy",
-      "name": "OpenJDK8U-jdk_s390x_linux_openj9_2019-01-01-00-22.tar.gz.sha256.txt",
+      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-binaries/releases/assets/10372906",
+      "id": 10372906,
+      "node_id": "MDEyOlJlbGVhc2VBc3NldDEwMzcyOTA2",
+      "name": "OpenJDK8U-jdk_s390x_linux_openj9_2019-01-01-15-43.tar.gz.sha256.txt",
       "label": "",
       "uploader": {
         "login": "adoptopenjdk-github-bot",
@@ -437,15 +437,15 @@
       "state": "uploaded",
       "size": 123,
       "download_count": 0,
-      "created_at": "2019-01-01T00:23:03Z",
-      "updated_at": "2019-01-01T00:23:04Z",
-      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-01-01-00-22/OpenJDK8U-jdk_s390x_linux_openj9_2019-01-01-00-22.tar.gz.sha256.txt"
+      "created_at": "2019-01-01T15:44:40Z",
+      "updated_at": "2019-01-01T15:44:40Z",
+      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-01-01-15-43/OpenJDK8U-jdk_s390x_linux_openj9_2019-01-01-15-43.tar.gz.sha256.txt"
     },
     {
-      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-binaries/releases/assets/10368773",
-      "id": 10368773,
-      "node_id": "MDEyOlJlbGVhc2VBc3NldDEwMzY4Nzcz",
-      "name": "OpenJDK8U-jdk_x64_linux_hotspot_2019-01-01-00-22.tar.gz",
+      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-binaries/releases/assets/10372908",
+      "id": 10372908,
+      "node_id": "MDEyOlJlbGVhc2VBc3NldDEwMzcyOTA4",
+      "name": "OpenJDK8U-jdk_x64_linux_hotspot_2019-01-01-15-43.tar.gz",
       "label": "",
       "uploader": {
         "login": "adoptopenjdk-github-bot",
@@ -469,17 +469,17 @@
       },
       "content_type": "application/gzip",
       "state": "uploaded",
-      "size": 104318647,
+      "size": 104383732,
       "download_count": 0,
-      "created_at": "2019-01-01T00:23:04Z",
-      "updated_at": "2019-01-01T00:23:09Z",
-      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-01-01-00-22/OpenJDK8U-jdk_x64_linux_hotspot_2019-01-01-00-22.tar.gz"
+      "created_at": "2019-01-01T15:44:40Z",
+      "updated_at": "2019-01-01T15:44:49Z",
+      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-01-01-15-43/OpenJDK8U-jdk_x64_linux_hotspot_2019-01-01-15-43.tar.gz"
     },
     {
-      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-binaries/releases/assets/10368774",
-      "id": 10368774,
-      "node_id": "MDEyOlJlbGVhc2VBc3NldDEwMzY4Nzc0",
-      "name": "OpenJDK8U-jdk_x64_linux_hotspot_2019-01-01-00-22.tar.gz.sha256.txt",
+      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-binaries/releases/assets/10372910",
+      "id": 10372910,
+      "node_id": "MDEyOlJlbGVhc2VBc3NldDEwMzcyOTEw",
+      "name": "OpenJDK8U-jdk_x64_linux_hotspot_2019-01-01-15-43.tar.gz.sha256.txt",
       "label": "",
       "uploader": {
         "login": "adoptopenjdk-github-bot",
@@ -505,15 +505,15 @@
       "state": "uploaded",
       "size": 122,
       "download_count": 0,
-      "created_at": "2019-01-01T00:23:09Z",
-      "updated_at": "2019-01-01T00:23:10Z",
-      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-01-01-00-22/OpenJDK8U-jdk_x64_linux_hotspot_2019-01-01-00-22.tar.gz.sha256.txt"
+      "created_at": "2019-01-01T15:44:50Z",
+      "updated_at": "2019-01-01T15:44:50Z",
+      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-01-01-15-43/OpenJDK8U-jdk_x64_linux_hotspot_2019-01-01-15-43.tar.gz.sha256.txt"
     },
     {
-      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-binaries/releases/assets/10368775",
-      "id": 10368775,
-      "node_id": "MDEyOlJlbGVhc2VBc3NldDEwMzY4Nzc1",
-      "name": "OpenJDK8U-jdk_x64_linux_openj9_2019-01-01-00-22.tar.gz",
+      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-binaries/releases/assets/10372911",
+      "id": 10372911,
+      "node_id": "MDEyOlJlbGVhc2VBc3NldDEwMzcyOTEx",
+      "name": "OpenJDK8U-jdk_x64_linux_openj9_2019-01-01-15-43.tar.gz",
       "label": "",
       "uploader": {
         "login": "adoptopenjdk-github-bot",
@@ -537,17 +537,17 @@
       },
       "content_type": "application/gzip",
       "state": "uploaded",
-      "size": 116679824,
-      "download_count": 5,
-      "created_at": "2019-01-01T00:23:10Z",
-      "updated_at": "2019-01-01T00:23:16Z",
-      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-01-01-00-22/OpenJDK8U-jdk_x64_linux_openj9_2019-01-01-00-22.tar.gz"
+      "size": 116683384,
+      "download_count": 0,
+      "created_at": "2019-01-01T15:44:50Z",
+      "updated_at": "2019-01-01T15:44:56Z",
+      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-01-01-15-43/OpenJDK8U-jdk_x64_linux_openj9_2019-01-01-15-43.tar.gz"
     },
     {
-      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-binaries/releases/assets/10368776",
-      "id": 10368776,
-      "node_id": "MDEyOlJlbGVhc2VBc3NldDEwMzY4Nzc2",
-      "name": "OpenJDK8U-jdk_x64_linux_openj9_2019-01-01-00-22.tar.gz.sha256.txt",
+      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-binaries/releases/assets/10372919",
+      "id": 10372919,
+      "node_id": "MDEyOlJlbGVhc2VBc3NldDEwMzcyOTE5",
+      "name": "OpenJDK8U-jdk_x64_linux_openj9_2019-01-01-15-43.tar.gz.sha256.txt",
       "label": "",
       "uploader": {
         "login": "adoptopenjdk-github-bot",
@@ -573,15 +573,15 @@
       "state": "uploaded",
       "size": 121,
       "download_count": 0,
-      "created_at": "2019-01-01T00:23:16Z",
-      "updated_at": "2019-01-01T00:23:16Z",
-      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-01-01-00-22/OpenJDK8U-jdk_x64_linux_openj9_2019-01-01-00-22.tar.gz.sha256.txt"
+      "created_at": "2019-01-01T15:44:57Z",
+      "updated_at": "2019-01-01T15:44:57Z",
+      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-01-01-15-43/OpenJDK8U-jdk_x64_linux_openj9_2019-01-01-15-43.tar.gz.sha256.txt"
     },
     {
-      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-binaries/releases/assets/10368777",
-      "id": 10368777,
-      "node_id": "MDEyOlJlbGVhc2VBc3NldDEwMzY4Nzc3",
-      "name": "OpenJDK8U-jdk_x64_linux_openj9_linuxXL_2019-01-01-00-22.tar.gz",
+      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-binaries/releases/assets/10372920",
+      "id": 10372920,
+      "node_id": "MDEyOlJlbGVhc2VBc3NldDEwMzcyOTIw",
+      "name": "OpenJDK8U-jdk_x64_linux_openj9_linuxXL_2019-01-01-15-43.tar.gz",
       "label": "",
       "uploader": {
         "login": "adoptopenjdk-github-bot",
@@ -605,17 +605,17 @@
       },
       "content_type": "application/gzip",
       "state": "uploaded",
-      "size": 116601284,
-      "download_count": 25,
-      "created_at": "2019-01-01T00:23:17Z",
-      "updated_at": "2019-01-01T00:23:23Z",
-      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-01-01-00-22/OpenJDK8U-jdk_x64_linux_openj9_linuxXL_2019-01-01-00-22.tar.gz"
+      "size": 116601185,
+      "download_count": 0,
+      "created_at": "2019-01-01T15:44:57Z",
+      "updated_at": "2019-01-01T15:45:04Z",
+      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-01-01-15-43/OpenJDK8U-jdk_x64_linux_openj9_linuxXL_2019-01-01-15-43.tar.gz"
     },
     {
-      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-binaries/releases/assets/10368778",
-      "id": 10368778,
-      "node_id": "MDEyOlJlbGVhc2VBc3NldDEwMzY4Nzc4",
-      "name": "OpenJDK8U-jdk_x64_linux_openj9_linuxXL_2019-01-01-00-22.tar.gz.sha256.txt",
+      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-binaries/releases/assets/10372924",
+      "id": 10372924,
+      "node_id": "MDEyOlJlbGVhc2VBc3NldDEwMzcyOTI0",
+      "name": "OpenJDK8U-jdk_x64_linux_openj9_linuxXL_2019-01-01-15-43.tar.gz.sha256.txt",
       "label": "",
       "uploader": {
         "login": "adoptopenjdk-github-bot",
@@ -641,15 +641,15 @@
       "state": "uploaded",
       "size": 129,
       "download_count": 0,
-      "created_at": "2019-01-01T00:23:23Z",
-      "updated_at": "2019-01-01T00:23:23Z",
-      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-01-01-00-22/OpenJDK8U-jdk_x64_linux_openj9_linuxXL_2019-01-01-00-22.tar.gz.sha256.txt"
+      "created_at": "2019-01-01T15:45:05Z",
+      "updated_at": "2019-01-01T15:45:05Z",
+      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-01-01-15-43/OpenJDK8U-jdk_x64_linux_openj9_linuxXL_2019-01-01-15-43.tar.gz.sha256.txt"
     },
     {
-      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-binaries/releases/assets/10368779",
-      "id": 10368779,
-      "node_id": "MDEyOlJlbGVhc2VBc3NldDEwMzY4Nzc5",
-      "name": "OpenJDK8U-jdk_x64_mac_hotspot_2019-01-01-00-22.tar.gz",
+      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-binaries/releases/assets/10372926",
+      "id": 10372926,
+      "node_id": "MDEyOlJlbGVhc2VBc3NldDEwMzcyOTI2",
+      "name": "OpenJDK8U-jdk_x64_mac_hotspot_2019-01-01-15-43.tar.gz",
       "label": "",
       "uploader": {
         "login": "adoptopenjdk-github-bot",
@@ -673,17 +673,17 @@
       },
       "content_type": "application/gzip",
       "state": "uploaded",
-      "size": 101591454,
+      "size": 101588974,
       "download_count": 0,
-      "created_at": "2019-01-01T00:23:24Z",
-      "updated_at": "2019-01-01T00:23:31Z",
-      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-01-01-00-22/OpenJDK8U-jdk_x64_mac_hotspot_2019-01-01-00-22.tar.gz"
+      "created_at": "2019-01-01T15:45:05Z",
+      "updated_at": "2019-01-01T15:45:10Z",
+      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-01-01-15-43/OpenJDK8U-jdk_x64_mac_hotspot_2019-01-01-15-43.tar.gz"
     },
     {
-      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-binaries/releases/assets/10368780",
-      "id": 10368780,
-      "node_id": "MDEyOlJlbGVhc2VBc3NldDEwMzY4Nzgw",
-      "name": "OpenJDK8U-jdk_x64_mac_hotspot_2019-01-01-00-22.tar.gz.sha256.txt",
+      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-binaries/releases/assets/10372932",
+      "id": 10372932,
+      "node_id": "MDEyOlJlbGVhc2VBc3NldDEwMzcyOTMy",
+      "name": "OpenJDK8U-jdk_x64_mac_hotspot_2019-01-01-15-43.tar.gz.sha256.txt",
       "label": "",
       "uploader": {
         "login": "adoptopenjdk-github-bot",
@@ -709,15 +709,15 @@
       "state": "uploaded",
       "size": 120,
       "download_count": 0,
-      "created_at": "2019-01-01T00:23:31Z",
-      "updated_at": "2019-01-01T00:23:31Z",
-      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-01-01-00-22/OpenJDK8U-jdk_x64_mac_hotspot_2019-01-01-00-22.tar.gz.sha256.txt"
+      "created_at": "2019-01-01T15:45:10Z",
+      "updated_at": "2019-01-01T15:45:10Z",
+      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-01-01-15-43/OpenJDK8U-jdk_x64_mac_hotspot_2019-01-01-15-43.tar.gz.sha256.txt"
     },
     {
-      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-binaries/releases/assets/10368781",
-      "id": 10368781,
-      "node_id": "MDEyOlJlbGVhc2VBc3NldDEwMzY4Nzgx",
-      "name": "OpenJDK8U-jdk_x64_mac_openj9_2019-01-01-00-22.tar.gz",
+      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-binaries/releases/assets/10372933",
+      "id": 10372933,
+      "node_id": "MDEyOlJlbGVhc2VBc3NldDEwMzcyOTMz",
+      "name": "OpenJDK8U-jdk_x64_mac_openj9_2019-01-01-15-43.tar.gz",
       "label": "",
       "uploader": {
         "login": "adoptopenjdk-github-bot",
@@ -741,17 +741,17 @@
       },
       "content_type": "application/gzip",
       "state": "uploaded",
-      "size": 113966601,
+      "size": 113963753,
       "download_count": 0,
-      "created_at": "2019-01-01T00:23:32Z",
-      "updated_at": "2019-01-01T00:23:37Z",
-      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-01-01-00-22/OpenJDK8U-jdk_x64_mac_openj9_2019-01-01-00-22.tar.gz"
+      "created_at": "2019-01-01T15:45:11Z",
+      "updated_at": "2019-01-01T15:45:16Z",
+      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-01-01-15-43/OpenJDK8U-jdk_x64_mac_openj9_2019-01-01-15-43.tar.gz"
     },
     {
-      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-binaries/releases/assets/10368783",
-      "id": 10368783,
-      "node_id": "MDEyOlJlbGVhc2VBc3NldDEwMzY4Nzgz",
-      "name": "OpenJDK8U-jdk_x64_mac_openj9_2019-01-01-00-22.tar.gz.sha256.txt",
+      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-binaries/releases/assets/10372935",
+      "id": 10372935,
+      "node_id": "MDEyOlJlbGVhc2VBc3NldDEwMzcyOTM1",
+      "name": "OpenJDK8U-jdk_x64_mac_openj9_2019-01-01-15-43.tar.gz.sha256.txt",
       "label": "",
       "uploader": {
         "login": "adoptopenjdk-github-bot",
@@ -777,15 +777,15 @@
       "state": "uploaded",
       "size": 119,
       "download_count": 0,
-      "created_at": "2019-01-01T00:23:38Z",
-      "updated_at": "2019-01-01T00:23:38Z",
-      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-01-01-00-22/OpenJDK8U-jdk_x64_mac_openj9_2019-01-01-00-22.tar.gz.sha256.txt"
+      "created_at": "2019-01-01T15:45:17Z",
+      "updated_at": "2019-01-01T15:45:17Z",
+      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-01-01-15-43/OpenJDK8U-jdk_x64_mac_openj9_2019-01-01-15-43.tar.gz.sha256.txt"
     },
     {
-      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-binaries/releases/assets/10368784",
-      "id": 10368784,
-      "node_id": "MDEyOlJlbGVhc2VBc3NldDEwMzY4Nzg0",
-      "name": "OpenJDK8U-jre_aarch64_linux_hotspot_2019-01-01-00-22.tar.gz",
+      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-binaries/releases/assets/10372936",
+      "id": 10372936,
+      "node_id": "MDEyOlJlbGVhc2VBc3NldDEwMzcyOTM2",
+      "name": "OpenJDK8U-jre_aarch64_linux_hotspot_2019-01-01-15-43.tar.gz",
       "label": "",
       "uploader": {
         "login": "adoptopenjdk-github-bot",
@@ -809,17 +809,17 @@
       },
       "content_type": "application/gzip",
       "state": "uploaded",
-      "size": 40739132,
+      "size": 40739731,
       "download_count": 0,
-      "created_at": "2019-01-01T00:23:38Z",
-      "updated_at": "2019-01-01T00:23:41Z",
-      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-01-01-00-22/OpenJDK8U-jre_aarch64_linux_hotspot_2019-01-01-00-22.tar.gz"
+      "created_at": "2019-01-01T15:45:17Z",
+      "updated_at": "2019-01-01T15:45:20Z",
+      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-01-01-15-43/OpenJDK8U-jre_aarch64_linux_hotspot_2019-01-01-15-43.tar.gz"
     },
     {
-      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-binaries/releases/assets/10368785",
-      "id": 10368785,
-      "node_id": "MDEyOlJlbGVhc2VBc3NldDEwMzY4Nzg1",
-      "name": "OpenJDK8U-jre_aarch64_linux_hotspot_2019-01-01-00-22.tar.gz.sha256.txt",
+      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-binaries/releases/assets/10372940",
+      "id": 10372940,
+      "node_id": "MDEyOlJlbGVhc2VBc3NldDEwMzcyOTQw",
+      "name": "OpenJDK8U-jre_aarch64_linux_hotspot_2019-01-01-15-43.tar.gz.sha256.txt",
       "label": "",
       "uploader": {
         "login": "adoptopenjdk-github-bot",
@@ -845,15 +845,15 @@
       "state": "uploaded",
       "size": 126,
       "download_count": 0,
-      "created_at": "2019-01-01T00:23:41Z",
-      "updated_at": "2019-01-01T00:23:41Z",
-      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-01-01-00-22/OpenJDK8U-jre_aarch64_linux_hotspot_2019-01-01-00-22.tar.gz.sha256.txt"
+      "created_at": "2019-01-01T15:45:20Z",
+      "updated_at": "2019-01-01T15:45:20Z",
+      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-01-01-15-43/OpenJDK8U-jre_aarch64_linux_hotspot_2019-01-01-15-43.tar.gz.sha256.txt"
     },
     {
-      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-binaries/releases/assets/10368786",
-      "id": 10368786,
-      "node_id": "MDEyOlJlbGVhc2VBc3NldDEwMzY4Nzg2",
-      "name": "OpenJDK8U-jre_ppc64_aix_hotspot_2019-01-01-00-22.tar.gz",
+      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-binaries/releases/assets/10372941",
+      "id": 10372941,
+      "node_id": "MDEyOlJlbGVhc2VBc3NldDEwMzcyOTQx",
+      "name": "OpenJDK8U-jre_ppc64_aix_hotspot_2019-01-01-15-43.tar.gz",
       "label": "",
       "uploader": {
         "login": "adoptopenjdk-github-bot",
@@ -877,17 +877,17 @@
       },
       "content_type": "application/gzip",
       "state": "uploaded",
-      "size": 41900608,
+      "size": 41899523,
       "download_count": 0,
-      "created_at": "2019-01-01T00:23:42Z",
-      "updated_at": "2019-01-01T00:23:44Z",
-      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-01-01-00-22/OpenJDK8U-jre_ppc64_aix_hotspot_2019-01-01-00-22.tar.gz"
+      "created_at": "2019-01-01T15:45:21Z",
+      "updated_at": "2019-01-01T15:45:24Z",
+      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-01-01-15-43/OpenJDK8U-jre_ppc64_aix_hotspot_2019-01-01-15-43.tar.gz"
     },
     {
-      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-binaries/releases/assets/10368787",
-      "id": 10368787,
-      "node_id": "MDEyOlJlbGVhc2VBc3NldDEwMzY4Nzg3",
-      "name": "OpenJDK8U-jre_ppc64_aix_hotspot_2019-01-01-00-22.tar.gz.sha256.txt",
+      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-binaries/releases/assets/10372945",
+      "id": 10372945,
+      "node_id": "MDEyOlJlbGVhc2VBc3NldDEwMzcyOTQ1",
+      "name": "OpenJDK8U-jre_ppc64_aix_hotspot_2019-01-01-15-43.tar.gz.sha256.txt",
       "label": "",
       "uploader": {
         "login": "adoptopenjdk-github-bot",
@@ -913,15 +913,15 @@
       "state": "uploaded",
       "size": 122,
       "download_count": 0,
-      "created_at": "2019-01-01T00:23:45Z",
-      "updated_at": "2019-01-01T00:23:45Z",
-      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-01-01-00-22/OpenJDK8U-jre_ppc64_aix_hotspot_2019-01-01-00-22.tar.gz.sha256.txt"
+      "created_at": "2019-01-01T15:45:24Z",
+      "updated_at": "2019-01-01T15:45:24Z",
+      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-01-01-15-43/OpenJDK8U-jre_ppc64_aix_hotspot_2019-01-01-15-43.tar.gz.sha256.txt"
     },
     {
-      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-binaries/releases/assets/10368788",
-      "id": 10368788,
-      "node_id": "MDEyOlJlbGVhc2VBc3NldDEwMzY4Nzg4",
-      "name": "OpenJDK8U-jre_ppc64le_linux_hotspot_2019-01-01-00-22.tar.gz",
+      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-binaries/releases/assets/10372946",
+      "id": 10372946,
+      "node_id": "MDEyOlJlbGVhc2VBc3NldDEwMzcyOTQ2",
+      "name": "OpenJDK8U-jre_ppc64le_linux_hotspot_2019-01-01-15-43.tar.gz",
       "label": "",
       "uploader": {
         "login": "adoptopenjdk-github-bot",
@@ -945,17 +945,17 @@
       },
       "content_type": "application/gzip",
       "state": "uploaded",
-      "size": 40014386,
+      "size": 40014207,
       "download_count": 0,
-      "created_at": "2019-01-01T00:23:45Z",
-      "updated_at": "2019-01-01T00:23:48Z",
-      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-01-01-00-22/OpenJDK8U-jre_ppc64le_linux_hotspot_2019-01-01-00-22.tar.gz"
+      "created_at": "2019-01-01T15:45:25Z",
+      "updated_at": "2019-01-01T15:45:27Z",
+      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-01-01-15-43/OpenJDK8U-jre_ppc64le_linux_hotspot_2019-01-01-15-43.tar.gz"
     },
     {
-      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-binaries/releases/assets/10368789",
-      "id": 10368789,
-      "node_id": "MDEyOlJlbGVhc2VBc3NldDEwMzY4Nzg5",
-      "name": "OpenJDK8U-jre_ppc64le_linux_hotspot_2019-01-01-00-22.tar.gz.sha256.txt",
+      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-binaries/releases/assets/10372947",
+      "id": 10372947,
+      "node_id": "MDEyOlJlbGVhc2VBc3NldDEwMzcyOTQ3",
+      "name": "OpenJDK8U-jre_ppc64le_linux_hotspot_2019-01-01-15-43.tar.gz.sha256.txt",
       "label": "",
       "uploader": {
         "login": "adoptopenjdk-github-bot",
@@ -981,15 +981,15 @@
       "state": "uploaded",
       "size": 126,
       "download_count": 0,
-      "created_at": "2019-01-01T00:23:48Z",
-      "updated_at": "2019-01-01T00:23:48Z",
-      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-01-01-00-22/OpenJDK8U-jre_ppc64le_linux_hotspot_2019-01-01-00-22.tar.gz.sha256.txt"
+      "created_at": "2019-01-01T15:45:28Z",
+      "updated_at": "2019-01-01T15:45:28Z",
+      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-01-01-15-43/OpenJDK8U-jre_ppc64le_linux_hotspot_2019-01-01-15-43.tar.gz.sha256.txt"
     },
     {
-      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-binaries/releases/assets/10368790",
-      "id": 10368790,
-      "node_id": "MDEyOlJlbGVhc2VBc3NldDEwMzY4Nzkw",
-      "name": "OpenJDK8U-jre_ppc64le_linux_openj9_2019-01-01-00-22.tar.gz",
+      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-binaries/releases/assets/10372948",
+      "id": 10372948,
+      "node_id": "MDEyOlJlbGVhc2VBc3NldDEwMzcyOTQ4",
+      "name": "OpenJDK8U-jre_ppc64le_linux_openj9_2019-01-01-15-43.tar.gz",
       "label": "",
       "uploader": {
         "login": "adoptopenjdk-github-bot",
@@ -1013,17 +1013,17 @@
       },
       "content_type": "application/gzip",
       "state": "uploaded",
-      "size": 48845339,
+      "size": 48844876,
       "download_count": 0,
-      "created_at": "2019-01-01T00:23:48Z",
-      "updated_at": "2019-01-01T00:23:51Z",
-      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-01-01-00-22/OpenJDK8U-jre_ppc64le_linux_openj9_2019-01-01-00-22.tar.gz"
+      "created_at": "2019-01-01T15:45:28Z",
+      "updated_at": "2019-01-01T15:45:31Z",
+      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-01-01-15-43/OpenJDK8U-jre_ppc64le_linux_openj9_2019-01-01-15-43.tar.gz"
     },
     {
-      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-binaries/releases/assets/10368791",
-      "id": 10368791,
-      "node_id": "MDEyOlJlbGVhc2VBc3NldDEwMzY4Nzkx",
-      "name": "OpenJDK8U-jre_ppc64le_linux_openj9_2019-01-01-00-22.tar.gz.sha256.txt",
+      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-binaries/releases/assets/10372949",
+      "id": 10372949,
+      "node_id": "MDEyOlJlbGVhc2VBc3NldDEwMzcyOTQ5",
+      "name": "OpenJDK8U-jre_ppc64le_linux_openj9_2019-01-01-15-43.tar.gz.sha256.txt",
       "label": "",
       "uploader": {
         "login": "adoptopenjdk-github-bot",
@@ -1049,15 +1049,15 @@
       "state": "uploaded",
       "size": 125,
       "download_count": 0,
-      "created_at": "2019-01-01T00:23:51Z",
-      "updated_at": "2019-01-01T00:23:51Z",
-      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-01-01-00-22/OpenJDK8U-jre_ppc64le_linux_openj9_2019-01-01-00-22.tar.gz.sha256.txt"
+      "created_at": "2019-01-01T15:45:31Z",
+      "updated_at": "2019-01-01T15:45:32Z",
+      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-01-01-15-43/OpenJDK8U-jre_ppc64le_linux_openj9_2019-01-01-15-43.tar.gz.sha256.txt"
     },
     {
-      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-binaries/releases/assets/10368792",
-      "id": 10368792,
-      "node_id": "MDEyOlJlbGVhc2VBc3NldDEwMzY4Nzky",
-      "name": "OpenJDK8U-jre_s390x_linux_hotspot_2019-01-01-00-22.tar.gz",
+      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-binaries/releases/assets/10372950",
+      "id": 10372950,
+      "node_id": "MDEyOlJlbGVhc2VBc3NldDEwMzcyOTUw",
+      "name": "OpenJDK8U-jre_s390x_linux_hotspot_2019-01-01-15-43.tar.gz",
       "label": "",
       "uploader": {
         "login": "adoptopenjdk-github-bot",
@@ -1081,17 +1081,17 @@
       },
       "content_type": "application/gzip",
       "state": "uploaded",
-      "size": 38669948,
+      "size": 38668969,
       "download_count": 0,
-      "created_at": "2019-01-01T00:23:52Z",
-      "updated_at": "2019-01-01T00:23:54Z",
-      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-01-01-00-22/OpenJDK8U-jre_s390x_linux_hotspot_2019-01-01-00-22.tar.gz"
+      "created_at": "2019-01-01T15:45:32Z",
+      "updated_at": "2019-01-01T15:45:35Z",
+      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-01-01-15-43/OpenJDK8U-jre_s390x_linux_hotspot_2019-01-01-15-43.tar.gz"
     },
     {
-      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-binaries/releases/assets/10368793",
-      "id": 10368793,
-      "node_id": "MDEyOlJlbGVhc2VBc3NldDEwMzY4Nzkz",
-      "name": "OpenJDK8U-jre_s390x_linux_hotspot_2019-01-01-00-22.tar.gz.sha256.txt",
+      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-binaries/releases/assets/10372951",
+      "id": 10372951,
+      "node_id": "MDEyOlJlbGVhc2VBc3NldDEwMzcyOTUx",
+      "name": "OpenJDK8U-jre_s390x_linux_hotspot_2019-01-01-15-43.tar.gz.sha256.txt",
       "label": "",
       "uploader": {
         "login": "adoptopenjdk-github-bot",
@@ -1117,15 +1117,15 @@
       "state": "uploaded",
       "size": 124,
       "download_count": 0,
-      "created_at": "2019-01-01T00:23:55Z",
-      "updated_at": "2019-01-01T00:23:55Z",
-      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-01-01-00-22/OpenJDK8U-jre_s390x_linux_hotspot_2019-01-01-00-22.tar.gz.sha256.txt"
+      "created_at": "2019-01-01T15:45:35Z",
+      "updated_at": "2019-01-01T15:45:35Z",
+      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-01-01-15-43/OpenJDK8U-jre_s390x_linux_hotspot_2019-01-01-15-43.tar.gz.sha256.txt"
     },
     {
-      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-binaries/releases/assets/10368794",
-      "id": 10368794,
-      "node_id": "MDEyOlJlbGVhc2VBc3NldDEwMzY4Nzk0",
-      "name": "OpenJDK8U-jre_s390x_linux_openj9_2019-01-01-00-22.tar.gz",
+      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-binaries/releases/assets/10372952",
+      "id": 10372952,
+      "node_id": "MDEyOlJlbGVhc2VBc3NldDEwMzcyOTUy",
+      "name": "OpenJDK8U-jre_s390x_linux_openj9_2019-01-01-15-43.tar.gz",
       "label": "",
       "uploader": {
         "login": "adoptopenjdk-github-bot",
@@ -1149,17 +1149,17 @@
       },
       "content_type": "application/gzip",
       "state": "uploaded",
-      "size": 48799250,
+      "size": 48797781,
       "download_count": 0,
-      "created_at": "2019-01-01T00:23:55Z",
-      "updated_at": "2019-01-01T00:23:58Z",
-      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-01-01-00-22/OpenJDK8U-jre_s390x_linux_openj9_2019-01-01-00-22.tar.gz"
+      "created_at": "2019-01-01T15:45:36Z",
+      "updated_at": "2019-01-01T15:45:39Z",
+      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-01-01-15-43/OpenJDK8U-jre_s390x_linux_openj9_2019-01-01-15-43.tar.gz"
     },
     {
-      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-binaries/releases/assets/10368795",
-      "id": 10368795,
-      "node_id": "MDEyOlJlbGVhc2VBc3NldDEwMzY4Nzk1",
-      "name": "OpenJDK8U-jre_s390x_linux_openj9_2019-01-01-00-22.tar.gz.sha256.txt",
+      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-binaries/releases/assets/10372953",
+      "id": 10372953,
+      "node_id": "MDEyOlJlbGVhc2VBc3NldDEwMzcyOTUz",
+      "name": "OpenJDK8U-jre_s390x_linux_openj9_2019-01-01-15-43.tar.gz.sha256.txt",
       "label": "",
       "uploader": {
         "login": "adoptopenjdk-github-bot",
@@ -1185,15 +1185,15 @@
       "state": "uploaded",
       "size": 123,
       "download_count": 0,
-      "created_at": "2019-01-01T00:23:59Z",
-      "updated_at": "2019-01-01T00:23:59Z",
-      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-01-01-00-22/OpenJDK8U-jre_s390x_linux_openj9_2019-01-01-00-22.tar.gz.sha256.txt"
+      "created_at": "2019-01-01T15:45:39Z",
+      "updated_at": "2019-01-01T15:45:39Z",
+      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-01-01-15-43/OpenJDK8U-jre_s390x_linux_openj9_2019-01-01-15-43.tar.gz.sha256.txt"
     },
     {
-      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-binaries/releases/assets/10368796",
-      "id": 10368796,
-      "node_id": "MDEyOlJlbGVhc2VBc3NldDEwMzY4Nzk2",
-      "name": "OpenJDK8U-jre_x64_linux_hotspot_2019-01-01-00-22.tar.gz",
+      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-binaries/releases/assets/10372954",
+      "id": 10372954,
+      "node_id": "MDEyOlJlbGVhc2VBc3NldDEwMzcyOTU0",
+      "name": "OpenJDK8U-jre_x64_linux_hotspot_2019-01-01-15-43.tar.gz",
       "label": "",
       "uploader": {
         "login": "adoptopenjdk-github-bot",
@@ -1217,17 +1217,17 @@
       },
       "content_type": "application/gzip",
       "state": "uploaded",
-      "size": 40841295,
+      "size": 40865557,
       "download_count": 0,
-      "created_at": "2019-01-01T00:23:59Z",
-      "updated_at": "2019-01-01T00:24:02Z",
-      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-01-01-00-22/OpenJDK8U-jre_x64_linux_hotspot_2019-01-01-00-22.tar.gz"
+      "created_at": "2019-01-01T15:45:39Z",
+      "updated_at": "2019-01-01T15:45:42Z",
+      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-01-01-15-43/OpenJDK8U-jre_x64_linux_hotspot_2019-01-01-15-43.tar.gz"
     },
     {
-      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-binaries/releases/assets/10368797",
-      "id": 10368797,
-      "node_id": "MDEyOlJlbGVhc2VBc3NldDEwMzY4Nzk3",
-      "name": "OpenJDK8U-jre_x64_linux_hotspot_2019-01-01-00-22.tar.gz.sha256.txt",
+      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-binaries/releases/assets/10372957",
+      "id": 10372957,
+      "node_id": "MDEyOlJlbGVhc2VBc3NldDEwMzcyOTU3",
+      "name": "OpenJDK8U-jre_x64_linux_hotspot_2019-01-01-15-43.tar.gz.sha256.txt",
       "label": "",
       "uploader": {
         "login": "adoptopenjdk-github-bot",
@@ -1253,15 +1253,15 @@
       "state": "uploaded",
       "size": 122,
       "download_count": 0,
-      "created_at": "2019-01-01T00:24:02Z",
-      "updated_at": "2019-01-01T00:24:02Z",
-      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-01-01-00-22/OpenJDK8U-jre_x64_linux_hotspot_2019-01-01-00-22.tar.gz.sha256.txt"
+      "created_at": "2019-01-01T15:45:42Z",
+      "updated_at": "2019-01-01T15:45:42Z",
+      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-01-01-15-43/OpenJDK8U-jre_x64_linux_hotspot_2019-01-01-15-43.tar.gz.sha256.txt"
     },
     {
-      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-binaries/releases/assets/10368798",
-      "id": 10368798,
-      "node_id": "MDEyOlJlbGVhc2VBc3NldDEwMzY4Nzk4",
-      "name": "OpenJDK8U-jre_x64_linux_openj9_2019-01-01-00-22.tar.gz",
+      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-binaries/releases/assets/10372959",
+      "id": 10372959,
+      "node_id": "MDEyOlJlbGVhc2VBc3NldDEwMzcyOTU5",
+      "name": "OpenJDK8U-jre_x64_linux_openj9_2019-01-01-15-43.tar.gz",
       "label": "",
       "uploader": {
         "login": "adoptopenjdk-github-bot",
@@ -1285,17 +1285,17 @@
       },
       "content_type": "application/gzip",
       "state": "uploaded",
-      "size": 48663749,
+      "size": 48662667,
       "download_count": 0,
-      "created_at": "2019-01-01T00:24:03Z",
-      "updated_at": "2019-01-01T00:24:06Z",
-      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-01-01-00-22/OpenJDK8U-jre_x64_linux_openj9_2019-01-01-00-22.tar.gz"
+      "created_at": "2019-01-01T15:45:43Z",
+      "updated_at": "2019-01-01T15:45:46Z",
+      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-01-01-15-43/OpenJDK8U-jre_x64_linux_openj9_2019-01-01-15-43.tar.gz"
     },
     {
-      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-binaries/releases/assets/10368799",
-      "id": 10368799,
-      "node_id": "MDEyOlJlbGVhc2VBc3NldDEwMzY4Nzk5",
-      "name": "OpenJDK8U-jre_x64_linux_openj9_2019-01-01-00-22.tar.gz.sha256.txt",
+      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-binaries/releases/assets/10372964",
+      "id": 10372964,
+      "node_id": "MDEyOlJlbGVhc2VBc3NldDEwMzcyOTY0",
+      "name": "OpenJDK8U-jre_x64_linux_openj9_2019-01-01-15-43.tar.gz.sha256.txt",
       "label": "",
       "uploader": {
         "login": "adoptopenjdk-github-bot",
@@ -1321,15 +1321,15 @@
       "state": "uploaded",
       "size": 121,
       "download_count": 0,
-      "created_at": "2019-01-01T00:24:06Z",
-      "updated_at": "2019-01-01T00:24:06Z",
-      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-01-01-00-22/OpenJDK8U-jre_x64_linux_openj9_2019-01-01-00-22.tar.gz.sha256.txt"
+      "created_at": "2019-01-01T15:45:46Z",
+      "updated_at": "2019-01-01T15:45:46Z",
+      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-01-01-15-43/OpenJDK8U-jre_x64_linux_openj9_2019-01-01-15-43.tar.gz.sha256.txt"
     },
     {
-      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-binaries/releases/assets/10368800",
-      "id": 10368800,
-      "node_id": "MDEyOlJlbGVhc2VBc3NldDEwMzY4ODAw",
-      "name": "OpenJDK8U-jre_x64_linux_openj9_linuxXL_2019-01-01-00-22.tar.gz",
+      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-binaries/releases/assets/10372965",
+      "id": 10372965,
+      "node_id": "MDEyOlJlbGVhc2VBc3NldDEwMzcyOTY1",
+      "name": "OpenJDK8U-jre_x64_linux_openj9_linuxXL_2019-01-01-15-43.tar.gz",
       "label": "",
       "uploader": {
         "login": "adoptopenjdk-github-bot",
@@ -1353,17 +1353,17 @@
       },
       "content_type": "application/gzip",
       "state": "uploaded",
-      "size": 48617852,
+      "size": 48617924,
       "download_count": 0,
-      "created_at": "2019-01-01T00:24:07Z",
-      "updated_at": "2019-01-01T00:24:10Z",
-      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-01-01-00-22/OpenJDK8U-jre_x64_linux_openj9_linuxXL_2019-01-01-00-22.tar.gz"
+      "created_at": "2019-01-01T15:45:47Z",
+      "updated_at": "2019-01-01T15:45:49Z",
+      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-01-01-15-43/OpenJDK8U-jre_x64_linux_openj9_linuxXL_2019-01-01-15-43.tar.gz"
     },
     {
-      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-binaries/releases/assets/10368801",
-      "id": 10368801,
-      "node_id": "MDEyOlJlbGVhc2VBc3NldDEwMzY4ODAx",
-      "name": "OpenJDK8U-jre_x64_linux_openj9_linuxXL_2019-01-01-00-22.tar.gz.sha256.txt",
+      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-binaries/releases/assets/10372967",
+      "id": 10372967,
+      "node_id": "MDEyOlJlbGVhc2VBc3NldDEwMzcyOTY3",
+      "name": "OpenJDK8U-jre_x64_linux_openj9_linuxXL_2019-01-01-15-43.tar.gz.sha256.txt",
       "label": "",
       "uploader": {
         "login": "adoptopenjdk-github-bot",
@@ -1389,15 +1389,15 @@
       "state": "uploaded",
       "size": 129,
       "download_count": 0,
-      "created_at": "2019-01-01T00:24:10Z",
-      "updated_at": "2019-01-01T00:24:10Z",
-      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-01-01-00-22/OpenJDK8U-jre_x64_linux_openj9_linuxXL_2019-01-01-00-22.tar.gz.sha256.txt"
+      "created_at": "2019-01-01T15:45:50Z",
+      "updated_at": "2019-01-01T15:45:50Z",
+      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-01-01-15-43/OpenJDK8U-jre_x64_linux_openj9_linuxXL_2019-01-01-15-43.tar.gz.sha256.txt"
     },
     {
-      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-binaries/releases/assets/10368802",
-      "id": 10368802,
-      "node_id": "MDEyOlJlbGVhc2VBc3NldDEwMzY4ODAy",
-      "name": "OpenJDK8U-jre_x64_mac_hotspot_2019-01-01-00-22.tar.gz",
+      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-binaries/releases/assets/10372968",
+      "id": 10372968,
+      "node_id": "MDEyOlJlbGVhc2VBc3NldDEwMzcyOTY4",
+      "name": "OpenJDK8U-jre_x64_mac_hotspot_2019-01-01-15-43.tar.gz",
       "label": "",
       "uploader": {
         "login": "adoptopenjdk-github-bot",
@@ -1421,17 +1421,17 @@
       },
       "content_type": "application/gzip",
       "state": "uploaded",
-      "size": 38441471,
+      "size": 38441487,
       "download_count": 0,
-      "created_at": "2019-01-01T00:24:11Z",
-      "updated_at": "2019-01-01T00:24:13Z",
-      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-01-01-00-22/OpenJDK8U-jre_x64_mac_hotspot_2019-01-01-00-22.tar.gz"
+      "created_at": "2019-01-01T15:45:50Z",
+      "updated_at": "2019-01-01T15:45:53Z",
+      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-01-01-15-43/OpenJDK8U-jre_x64_mac_hotspot_2019-01-01-15-43.tar.gz"
     },
     {
-      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-binaries/releases/assets/10368804",
-      "id": 10368804,
-      "node_id": "MDEyOlJlbGVhc2VBc3NldDEwMzY4ODA0",
-      "name": "OpenJDK8U-jre_x64_mac_hotspot_2019-01-01-00-22.tar.gz.sha256.txt",
+      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-binaries/releases/assets/10372971",
+      "id": 10372971,
+      "node_id": "MDEyOlJlbGVhc2VBc3NldDEwMzcyOTcx",
+      "name": "OpenJDK8U-jre_x64_mac_hotspot_2019-01-01-15-43.tar.gz.sha256.txt",
       "label": "",
       "uploader": {
         "login": "adoptopenjdk-github-bot",
@@ -1457,15 +1457,15 @@
       "state": "uploaded",
       "size": 120,
       "download_count": 0,
-      "created_at": "2019-01-01T00:24:14Z",
-      "updated_at": "2019-01-01T00:24:14Z",
-      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-01-01-00-22/OpenJDK8U-jre_x64_mac_hotspot_2019-01-01-00-22.tar.gz.sha256.txt"
+      "created_at": "2019-01-01T15:45:53Z",
+      "updated_at": "2019-01-01T15:45:53Z",
+      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-01-01-15-43/OpenJDK8U-jre_x64_mac_hotspot_2019-01-01-15-43.tar.gz.sha256.txt"
     },
     {
-      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-binaries/releases/assets/10368806",
-      "id": 10368806,
-      "node_id": "MDEyOlJlbGVhc2VBc3NldDEwMzY4ODA2",
-      "name": "OpenJDK8U-jre_x64_mac_openj9_2019-01-01-00-22.tar.gz",
+      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-binaries/releases/assets/10372972",
+      "id": 10372972,
+      "node_id": "MDEyOlJlbGVhc2VBc3NldDEwMzcyOTcy",
+      "name": "OpenJDK8U-jre_x64_mac_openj9_2019-01-01-15-43.tar.gz",
       "label": "",
       "uploader": {
         "login": "adoptopenjdk-github-bot",
@@ -1489,17 +1489,17 @@
       },
       "content_type": "application/gzip",
       "state": "uploaded",
-      "size": 46691855,
+      "size": 46691031,
       "download_count": 0,
-      "created_at": "2019-01-01T00:24:14Z",
-      "updated_at": "2019-01-01T00:24:17Z",
-      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-01-01-00-22/OpenJDK8U-jre_x64_mac_openj9_2019-01-01-00-22.tar.gz"
+      "created_at": "2019-01-01T15:45:54Z",
+      "updated_at": "2019-01-01T15:45:56Z",
+      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-01-01-15-43/OpenJDK8U-jre_x64_mac_openj9_2019-01-01-15-43.tar.gz"
     },
     {
-      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-binaries/releases/assets/10368807",
-      "id": 10368807,
-      "node_id": "MDEyOlJlbGVhc2VBc3NldDEwMzY4ODA3",
-      "name": "OpenJDK8U-jre_x64_mac_openj9_2019-01-01-00-22.tar.gz.sha256.txt",
+      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-binaries/releases/assets/10372973",
+      "id": 10372973,
+      "node_id": "MDEyOlJlbGVhc2VBc3NldDEwMzcyOTcz",
+      "name": "OpenJDK8U-jre_x64_mac_openj9_2019-01-01-15-43.tar.gz.sha256.txt",
       "label": "",
       "uploader": {
         "login": "adoptopenjdk-github-bot",
@@ -1525,12 +1525,12 @@
       "state": "uploaded",
       "size": 119,
       "download_count": 0,
-      "created_at": "2019-01-01T00:24:18Z",
-      "updated_at": "2019-01-01T00:24:18Z",
-      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-01-01-00-22/OpenJDK8U-jre_x64_mac_openj9_2019-01-01-00-22.tar.gz.sha256.txt"
+      "created_at": "2019-01-01T15:45:57Z",
+      "updated_at": "2019-01-01T15:45:57Z",
+      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-01-01-15-43/OpenJDK8U-jre_x64_mac_openj9_2019-01-01-15-43.tar.gz.sha256.txt"
     }
   ],
-  "tarball_url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-binaries/tarball/jdk8u-2019-01-01-00-22",
-  "zipball_url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-binaries/zipball/jdk8u-2019-01-01-00-22",
+  "tarball_url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-binaries/tarball/jdk8u-2019-01-01-15-43",
+  "zipball_url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-binaries/zipball/jdk8u-2019-01-01-15-43",
   "body": "Nightly Build of jdk8u"
 }
