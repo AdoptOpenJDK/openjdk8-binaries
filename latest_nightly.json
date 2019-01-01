@@ -266,7 +266,7 @@
       "content_type": "application/gzip",
       "state": "uploaded",
       "size": 117082101,
-      "download_count": 0,
+      "download_count": 2,
       "created_at": "2019-01-01T00:22:43Z",
       "updated_at": "2019-01-01T00:22:49Z",
       "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-01-01-00-22/OpenJDK8U-jdk_ppc64le_linux_openj9_2019-01-01-00-22.tar.gz"
@@ -538,7 +538,7 @@
       "content_type": "application/gzip",
       "state": "uploaded",
       "size": 116679824,
-      "download_count": 0,
+      "download_count": 2,
       "created_at": "2019-01-01T00:23:10Z",
       "updated_at": "2019-01-01T00:23:16Z",
       "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-01-01-00-22/OpenJDK8U-jdk_x64_linux_openj9_2019-01-01-00-22.tar.gz"
@@ -606,7 +606,7 @@
       "content_type": "application/gzip",
       "state": "uploaded",
       "size": 116601284,
-      "download_count": 0,
+      "download_count": 2,
       "created_at": "2019-01-01T00:23:17Z",
       "updated_at": "2019-01-01T00:23:23Z",
       "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-01-01-00-22/OpenJDK8U-jdk_x64_linux_openj9_linuxXL_2019-01-01-00-22.tar.gz"
