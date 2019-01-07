@@ -334,7 +334,7 @@
       "content_type": "application/gzip",
       "state": "uploaded",
       "size": 100169863,
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2019-01-07T17:49:14Z",
       "updated_at": "2019-01-07T17:49:20Z",
       "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-01-07-17-48/OpenJDK8U-jdk_s390x_linux_hotspot_2019-01-07-17-48.tar.gz"
@@ -538,7 +538,7 @@
       "content_type": "application/gzip",
       "state": "uploaded",
       "size": 116682216,
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2019-01-07T17:49:35Z",
       "updated_at": "2019-01-07T17:49:43Z",
       "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-01-07-17-48/OpenJDK8U-jdk_x64_linux_openj9_2019-01-07-17-48.tar.gz"
@@ -844,7 +844,7 @@
       "content_type": "text/plain",
       "state": "uploaded",
       "size": 121,
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2019-01-07T17:50:13Z",
       "updated_at": "2019-01-07T17:50:13Z",
       "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-01-07-17-48/OpenJDK8U-jdk_x64_windows_hotspot_2019-01-07-17-48.zip.sha256.txt"
@@ -878,7 +878,7 @@
       "content_type": "application/zip",
       "state": "uploaded",
       "size": 116605218,
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2019-01-07T17:50:14Z",
       "updated_at": "2019-01-07T17:50:22Z",
       "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-01-07-17-48/OpenJDK8U-jdk_x64_windows_openj9_2019-01-07-17-48.zip"
@@ -912,7 +912,7 @@
       "content_type": "text/plain",
       "state": "uploaded",
       "size": 120,
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2019-01-07T17:50:22Z",
       "updated_at": "2019-01-07T17:50:22Z",
       "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-01-07-17-48/OpenJDK8U-jdk_x64_windows_openj9_2019-01-07-17-48.zip.sha256.txt"
@@ -1796,7 +1796,7 @@
       "content_type": "text/plain",
       "state": "uploaded",
       "size": 121,
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2019-01-07T17:51:14Z",
       "updated_at": "2019-01-07T17:51:14Z",
       "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-01-07-17-48/OpenJDK8U-jre_x64_windows_hotspot_2019-01-07-17-48.zip.sha256.txt"
@@ -1864,7 +1864,7 @@
       "content_type": "text/plain",
       "state": "uploaded",
       "size": 120,
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2019-01-07T17:51:18Z",
       "updated_at": "2019-01-07T17:51:18Z",
       "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-01-07-17-48/OpenJDK8U-jre_x64_windows_openj9_2019-01-07-17-48.zip.sha256.txt"
