@@ -1762,7 +1762,7 @@
       "content_type": "application/zip",
       "state": "uploaded",
       "size": 37796014,
-      "download_count": 5,
+      "download_count": 6,
       "created_at": "2019-01-07T17:51:11Z",
       "updated_at": "2019-01-07T17:51:14Z",
       "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-01-07-17-48/OpenJDK8U-jre_x64_windows_hotspot_2019-01-07-17-48.zip"
@@ -1796,7 +1796,7 @@
       "content_type": "text/plain",
       "state": "uploaded",
       "size": 121,
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2019-01-07T17:51:14Z",
       "updated_at": "2019-01-07T17:51:14Z",
       "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-01-07-17-48/OpenJDK8U-jre_x64_windows_hotspot_2019-01-07-17-48.zip.sha256.txt"
