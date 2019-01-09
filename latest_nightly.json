@@ -810,7 +810,7 @@
       "content_type": "application/zip",
       "state": "uploaded",
       "size": 104084169,
-      "download_count": 11,
+      "download_count": 12,
       "created_at": "2019-01-07T17:50:07Z",
       "updated_at": "2019-01-07T17:50:13Z",
       "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-01-07-17-48/OpenJDK8U-jdk_x64_windows_hotspot_2019-01-07-17-48.zip"
