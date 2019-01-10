@@ -96,7 +96,7 @@
       "content_type": "text/plain",
       "state": "uploaded",
       "size": 126,
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2019-01-10T20:14:09Z",
       "updated_at": "2019-01-10T20:14:09Z",
       "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-01-10-20-13/OpenJDK8U-jdk_aarch64_linux_hotspot_2019-01-10-20-13.tar.gz.sha256.txt"
@@ -232,7 +232,7 @@
       "content_type": "text/plain",
       "state": "uploaded",
       "size": 126,
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2019-01-10T20:14:21Z",
       "updated_at": "2019-01-10T20:14:21Z",
       "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-01-10-20-13/OpenJDK8U-jdk_ppc64le_linux_hotspot_2019-01-10-20-13.tar.gz.sha256.txt"
@@ -300,7 +300,7 @@
       "content_type": "text/plain",
       "state": "uploaded",
       "size": 125,
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2019-01-10T20:14:27Z",
       "updated_at": "2019-01-10T20:14:28Z",
       "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-01-10-20-13/OpenJDK8U-jdk_ppc64le_linux_openj9_2019-01-10-20-13.tar.gz.sha256.txt"
@@ -368,7 +368,7 @@
       "content_type": "text/plain",
       "state": "uploaded",
       "size": 124,
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2019-01-10T20:14:33Z",
       "updated_at": "2019-01-10T20:14:34Z",
       "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-01-10-20-13/OpenJDK8U-jdk_s390x_linux_hotspot_2019-01-10-20-13.tar.gz.sha256.txt"
@@ -436,7 +436,7 @@
       "content_type": "text/plain",
       "state": "uploaded",
       "size": 123,
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2019-01-10T20:14:41Z",
       "updated_at": "2019-01-10T20:14:41Z",
       "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-01-10-20-13/OpenJDK8U-jdk_s390x_linux_openj9_2019-01-10-20-13.tar.gz.sha256.txt"
@@ -572,7 +572,7 @@
       "content_type": "text/plain",
       "state": "uploaded",
       "size": 122,
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2019-01-10T20:14:53Z",
       "updated_at": "2019-01-10T20:14:53Z",
       "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-01-10-20-13/OpenJDK8U-jdk_x64_linux_hotspot_2019-01-10-20-13.tar.gz.sha256.txt"
@@ -640,7 +640,7 @@
       "content_type": "text/plain",
       "state": "uploaded",
       "size": 121,
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2019-01-10T20:15:00Z",
       "updated_at": "2019-01-10T20:15:00Z",
       "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-01-10-20-13/OpenJDK8U-jdk_x64_linux_openj9_2019-01-10-20-13.tar.gz.sha256.txt"
